@@ -27,8 +27,3 @@ HTML5 for structure
 CSS3 for styling & responsiveness
 
 JavaScript (Vanilla JS) for interactivity
-
-
----
-
-Do you want me to also write a short “About this project” paragraph (like a professional summary for recruiters), or just keep the feature list style?
